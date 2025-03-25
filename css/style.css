@@ -1,0 +1,29 @@
+* {
+    /* cor da borda */
+    border-color: black;
+    /* estilo da borda */
+    border-style: solid;
+    /* largura da borda */
+    border-width: 1px;
+}
+/* diferencia tags de ids no html */
+#primeiradiv {
+    color: red;
+    padding: 10px;
+    margin: 10px;
+    background-color: aquamarine;
+}
+
+div {
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(14, 138, 255);
+}
+/* permite aplicar a regra para mais de uma tag */
+.campos {
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(109, 109, 109);
+}
